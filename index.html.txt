@@ -1,3 +1,35 @@
+<html>
+<head>
+  <title>Hjemmeside</title>
+</head>
+
+<h1>
+<p> Interesse </p>
+</h1>
+
+<img src="MFDH.jpg" width="200" height="200" alt="Photo">
+<img src="Minecraft.jpg" width="200" height="200" alt="Photo">
+<img src="Age of History II.jpg" width="200" height="200" alt="Photo">
+
+
+<h2>
+<li> Interessen min er å spille
+<li> Jeg liker å spille og spiller mange forskjellige spill
+<li> Spill som interesserer meg er Minecraft, Roblox, Geometry Dash, Age of History II, Phasmophobia og Hello Neighbor
+<li>  </li>
+Minecraft er et spill hvor du kan gjøre det du vil, du kan slåss mot zombier, skjeletter og mot ekte spillere. Du kan bygge, lage hus og gjøre ting du kan gjøre i ekte livet.
+<li>  </li>
+Roblox er alle typer spill på et platform.
+<li>  </li>
+Geometry Dash er et rytmebasert plattformspill der spilleren styrer en firkantet figur som hopper og unngår hindringer i takt med musikken.
+<li>  </li>
+Age of History II er et strategispill der du styrer en nasjon gjennom historien, bygger imperier, fører kriger, inngår diplomati og administrerer økonomi og territorier.
+<li>  </li>
+Phasmophobia er et skrekkspill der du og opptil tre andre spiller som spøkelsesjegere, undersøker hjemsøkte steder, samler bevis og prøver å identifisere hvilken type spøkelse som er til stede – alt mens spøkelsene kan jage dere.
+<li>  </li>
+Hello Neighbor er et horrorspill der du sniker deg inn i naboens hus for å oppdage hemmeligheter i kjelleren, samtidig som naboen lærer av bevegelsene dine og setter opp feller for å stoppe deg.
+</h2>
+
 <!DOCTYPE html>   
 
 <html lang="no"> <!-- setter språk for koden -->
@@ -9,30 +41,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">  
 <!-- hjelper også til at siden vises riktig-->
 
-    <title>My</title>
+    <title>My Website</title>
     
     <!-- ved å bruke style kan man legge til stiler til ulike deler av dokumentet, dette er css kode-->
     <style> 
       body {     
         background-color: lightblue;
         
-      }
-     
-      
-    </style>
-  </head>
-  <body> <!-- det som er inne i body taggen er den synlige nettsiden -->
-    <main>
-        <h1>Valgfag programmering</h1>  
-        <h2>Bruk h1 og til h4 tagger for å lage overskrifter<h2>
-        
-        <p> Det som skrives inne i en p tag er et avsnitt<p>
-        <ul>
-            <li>ved å bruke "ul" og så "li" kan man lage lister<li>
-            <li>dette kan også være lenker til andre html dokumenter
-                eller lenke til en nettside<li>
-            <li> <a href="https://www.youtube.com/watch?v=hY7m5jjJ9mM"> The darkest pit of the internet <a/> <li>
-        
+      }        
     
     </main>
    
